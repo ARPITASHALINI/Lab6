@@ -1,4 +1,4 @@
-# Creating an Interactive maps with Folium. 
+# Creating interactive maps with Folium. 
 
 This repository works through an assignment for Programming for GIS. This assignment walks us through creating a chloropleth map for LA county zip codes based on the number of Starbucks present in each zip code. the final output also contains a precise map of all Strabucks locations in LA County. 
 
